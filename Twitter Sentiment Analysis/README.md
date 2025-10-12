@@ -7,7 +7,7 @@ The dataset contains 74,681 tweets labeled with four sentiment classes.
 
 Source: Kaggle Twitter Sentiment Dataset
 
-You can download the dataset here: [YOUR DATASET LINK HERE]
+You can download the dataset here: [(https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data)]
 (Replace this with your actual Kaggle dataset URL or file path)
 
 🧹 Data Preprocessing
